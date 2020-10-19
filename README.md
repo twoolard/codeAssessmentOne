@@ -17,6 +17,10 @@ need to make sure that you have the right driver for your machine and browser.
 I typically use chrome and I hear this is common practice. Check which version of chrome you have installed on your machine. Download the driver [here](https://chromedriver.chromium.org/home) and add it to the driver.chrome package under resources.
    #### Step 3 - You're ready to run the tests
 Open up the command prompt and navigate to the root directory in this project. Try running "mvn clean" then "mvn compile". In order to run the test you will need to run mvn test with two command line arguments.
+
+
     -Dselenium.browser=chrome
     -Dwebdriver.chrome.driver ={THE PATH TO THE DRIVER YOU DOWNLOADED}.
-Your command should look something like this "mvn test -Dselenium.browser=chrome -Dwebdriver.chrome.driver=$WORKSPACE\src\test\resources\drivers\chrome\chromedriver_Windows.exe". If you have a linux or mac you will need to use forward slashes instead of backslashes. 
+Your command should look something like this: 
+
+"mvn test -Dselenium.browser=chrome -Dwebdriver.chrome.driver=$WORKSPACE\src\test\resources\drivers\chrome\chromedriver_Windows.exe". If you have a linux or mac you will need to use forward slashes instead of backslashes. 
