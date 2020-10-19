@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ade8aec-c1fe-4d65-8bdd-84ba2d887a53" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j13U0tcFfDPrS9oEVZ0hIPXzcX" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\twoolard\IdeaProjects\CodingAssessment" />
+      <recent name="C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test\java" />
+      <recent name="C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test\java\com\interview\CodingAssessment" />
+      <recent name="C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.interview.coding.challenge.pages.toDo" />
+      <recent name="com.interview.CodingAssessment" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test\resources\drivers\chrome" />
+      <recent name="C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test\resources\drivers\chromedriver_Windows.exe" />
+      <recent name="C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test\resources\drivers\old" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.CodingAssessment [test...]">
+    <configuration name="CodingAssessment [test...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+                <option value="-Dselenium.browser=chrome" />
+                <option value="-Dwebdriver.chrome.driver=C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test\resources\drivers\chrome\chromedriver_Windows.exe" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunAllTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CodingAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.coding.challenge.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.interview.coding.challenge.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.interview.coding.challenge.runners.RunAllTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dselenium.browser=chrome -Dwebdriver.chrome.driver=C:\Users\twoolard\IdeaProjects\CodingAssessment\src\test\resources\drivers\chrome\chromedriver_Windows.exe -DpropFile=dev.properties" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.CodingAssessment [test...]" />
+      <item itemvalue="TestNG.RunAllTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunAllTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ade8aec-c1fe-4d65-8bdd-84ba2d887a53" name="Default Changelist" comment="" />
+      <created>1602957782248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602957782248</updated>
+      <workItem from="1602957785880" duration="10678000" />
+      <workItem from="1602969097050" duration="12914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

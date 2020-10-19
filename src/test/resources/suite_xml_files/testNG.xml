@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Cucumber Test" verbose="1" configfailurepolicy="continue" data-provider-thread-count="2">
+    <test name="Run All Test" annotations="JDK">
+        <classes>
+            <class name="com.interview.coding.challenge.runners.RunAllTest"/>
+        </classes>
+    </test>
+</suite>
