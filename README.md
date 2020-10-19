@@ -23,4 +23,6 @@ Open up the command prompt and navigate to the root directory in this project. T
     -Dwebdriver.chrome.driver ={THE PATH TO THE DRIVER YOU DOWNLOADED}.
 Your command should look something like this: 
 
-"mvn test -Dselenium.browser=chrome -Dwebdriver.chrome.driver=$WORKSPACE\src\test\resources\drivers\chrome\chromedriver_Windows.exe". If you have a linux or mac you will need to use forward slashes instead of backslashes. 
+"mvn test -Dselenium.browser=chrome -Dwebdriver.chrome.driver=$WORKSPACE\src\test\resources\drivers\chrome\chromedriver_Windows.exe". 
+
+If you have a linux or mac you will need to use forward slashes instead of backslashes. 
